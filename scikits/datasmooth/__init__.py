@@ -1,2 +1,2 @@
 __version__ = 0.61
-from regularsmooth import *
+from .regularsmooth import *
